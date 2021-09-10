@@ -3,7 +3,7 @@ Video Game Database application with API endpoints that support **JSON** and **X
 
 
 # Usage
-To run the application from the command line, you have two options:
+To run the application from the command line:
 
 - **Maven**  - `mvn spring-boot:run`
 
